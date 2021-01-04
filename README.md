@@ -4,7 +4,11 @@
 
 .md => Marrkdown
 
-![KKU_1].(KKU1.png)
+.[]. square brackets
+
+( ) parentheses
+
+!.[KKU_1].(KKU1.png)
 
 อธิบายการใช้งาน Github และ google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
 
