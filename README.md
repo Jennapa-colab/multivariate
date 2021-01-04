@@ -2,13 +2,13 @@
 
 ### เจนนภา พุนานิล ID 623020515-3
 
-.md => Marrkdown
+.md => Markdown
 
 .[]. square brackets
 
 ( ) parentheses
 
-!.[YOONSANHA].(YOONSANHA.jpg)
+!.[YOONSANHA].(YOONSANHA.jpeg)
 
 อธิบายการใช้งาน Github และ google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
 
