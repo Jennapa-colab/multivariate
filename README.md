@@ -8,7 +8,7 @@
 
 ( ) parentheses
 
-!.[YOONSANHA].(YOONSANHA.png)
+!.[YOON.SANHA].(YOONSANHA.png)
 
 อธิบายการใช้งาน Github และ google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
 
@@ -28,4 +28,4 @@
 
 เมื่อเซฟไฟล์เข้า Github ได้สำเร็จจะขึ้นหน้าบราวเซอร์นี้ขึ้นมา
 
-4.วิธีการแทรกรูป Markdown
+//วิธีการแทรกรูป Markdown
