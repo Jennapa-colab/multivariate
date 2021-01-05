@@ -8,7 +8,7 @@
 
 ( ) parentheses
 
-!.[KKU.12].(KKK12.png)
+!.[KKU.12].(KKU12.png)
 
 อธิบายการใช้งาน Github และ google Colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลงใน Github
 
