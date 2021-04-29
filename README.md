@@ -28,7 +28,7 @@
 //วิธีการแทรกรูป Markdown
 -ให้กดตรงคำว่า add file และจากนั้นเลือกที่คำว่า uplode file
 
-![image](3.ipg)
+![image](3.jpg)
 
 -กดคำว่า choose your file จากนั้นเลือกรูปภาพที่เราต้องการ uplode 
 
